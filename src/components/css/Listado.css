@@ -1,0 +1,18 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+}
+
+.centro {
+    margin-top: 30px;
+    margin-left: 620px;
+    justify-content: center;
+    align-items: center;
+}
+
+.eliminar {
+    margin-left: 30px;
+    padding: 15px;
+   
+}
